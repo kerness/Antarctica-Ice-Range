@@ -11,11 +11,11 @@ Wykres prezentujący minimalny zakres pokrywy lodowej:
 
 ![Alt text](charts/minimalIceRange.png?raw=true "Title")
 
-Przykładowe wykresy (odpowednio zasięg rzeczywisty, model oraz porówanie) dla 26 października 1978:
+Przykładowe wykresy (odpowednio zasięg rzeczywisty, model oraz porówanie):
 
 ![Alt text](sampleRes/real-26-Oct-1978.png?raw=true "Title")
 ![Alt text](sampleRes/model-26-Oct-1978.png?raw=true "Title")
 
-![Alt text](sampleRes/compare-26-Oct-1978.png?raw=true "Title")
+![Alt text](sampleRes/compare-09-Jul-1978.png?raw=true "Title")
 
 
