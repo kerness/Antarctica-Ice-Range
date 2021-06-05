@@ -4,6 +4,9 @@ Repozytorium projektu realizowane w ramach kursu Modelowanie W Naukach O Ziemi, 
 
 Repozytorium zawiera kod niezbędny do wykoanania zadania, oraz rezultat w postaci filmu (results/iceRange.mp4) obrazującego zmianę pokrywy lodowej na obszarze Antarktydy. Poszczególne klatki filmu będące rezultatem działania funkcji plotDoubleIce nie są umieszczone w repozytorium ze względu na ich rozmiar.
 
+![Alt text](sampleRes/iceRangeSample.gif?raw=true "Title")
+
+
 Wykres prezentujący minimalny zakres pokrywy lodowej:
 
 ![Alt text](charts/minimalIceRange.png?raw=true "Title")
