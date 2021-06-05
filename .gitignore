@@ -3,3 +3,4 @@ charts/daily_ice_edge_df
 charts/models
 .Rproj.user
 .Rhistory
+*.Rproj
