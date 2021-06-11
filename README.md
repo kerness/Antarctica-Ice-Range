@@ -14,9 +14,13 @@ Model rozszerzony:
 Poszczególne klatki animacji będące rezultatem działania funkcji plotDoubleIce nie są umieszczone w repozytorium ze względu na ich rozmiar.
 
 
+Model uproszczony:
 
 ![Alt text](sampleRes/iceRangeSample.gif?raw=true "Title")
 
+Model rozszerzony:
+
+![Alt text](sampleRes/iceRange-interpolation.gif?raw=true "Title")
 
 Wykres prezentujący minimalny zakres pokrywy lodowej:
 
