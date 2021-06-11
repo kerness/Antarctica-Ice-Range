@@ -16,7 +16,7 @@ Poszczególne klatki animacji będące rezultatem działania funkcji plotDoubleI
 
 Model uproszczony:
 
-![Alt text](sampleRes/iceRangeSample.gif?raw=true "Title")
+![Alt text](sampleRes/iceRange-model.gif?raw=true "Title")
 
 Model rozszerzony:
 
