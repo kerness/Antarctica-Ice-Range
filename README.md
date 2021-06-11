@@ -6,9 +6,9 @@ Repozytorium zawiera kod niezbędny do wykoanania zadania, oraz rezultaty w post
 
 Z uwagi na rozmiar animacji zostały one umieszczone pod poniższymi adresami:
 
-Model uproszczony:
+Model uproszczony: https://streamable.com/5x1spt
 
-Model rozszerzony:
+Model rozszerzony: https://streamable.com/v634f8
 
 
 Poszczególne klatki animacji będące rezultatem działania funkcji plotDoubleIce nie są umieszczone w repozytorium ze względu na ich rozmiar.
