@@ -7,6 +7,8 @@
 
 ###################################################################
 
+# zapis wykresów plotly: https://github.com/plotly/orca#installation
+
 library(plotly)
 library(rsm)
 library(sp)
