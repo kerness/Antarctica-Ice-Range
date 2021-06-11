@@ -4,7 +4,7 @@ Repozytorium projektu realizowanego w ramach kursu Modelowanie W Naukach O Ziemi
 
 Repozytorium zawiera kod niezbędny do wykoanania zadania, oraz rezultaty w postaci animacji obrazujących zmianę pokrywy lodowej na obszarze Antarktydy (model uproszczony i rozszerzony).
 
-Z uwagi na rozmiar animacji zostały one umieszczone pod poniższymi adresami:
+Z uwagi na rozmiary animacji zostały one umieszczone pod poniższymi adresami:
 
 Model uproszczony: https://streamable.com/5x1spt
 
